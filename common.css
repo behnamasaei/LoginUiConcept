@@ -1,0 +1,35 @@
+/* 
+    #B0BAC3 
+    #E6F3FF
+    #000000
+*/
+
+
+.login-panel{
+    margin-top: 100px !important;
+    border: 1px solid #E6F3FF;
+    border-radius: 15px;
+}
+
+.title{
+    font-family: PoppinsSemiBold;
+}
+
+.form-group{
+    color:#7C838A;
+    display: grid;
+    margin-top: 30px;
+}
+
+input{
+    background-color: #DDE2E7;
+    border: none;
+    height: 40px;
+    border-radius: 10px;
+    padding: 0 30px;
+    max-width: 100%;
+}
+
+input:focus-visible {
+    outline: none;
+}
